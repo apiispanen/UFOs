@@ -1,2 +1,2 @@
 # UFOs
-Javascript Data Analysis and Bootstrap Web Customization.
+Javascript (ECMAScript) Data Analysis and Bootstrap Web Customization.
