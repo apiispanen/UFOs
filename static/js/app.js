@@ -54,7 +54,6 @@ function updateFilters() {
   
   // 7. Use this function to filter the table when data is entered.
   function filterTable() {
-      console.log(filters);
     // 8. Set the filtered data to the tableData.
     let filteredData = tableData;
   
